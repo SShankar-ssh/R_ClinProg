@@ -1,4 +1,6 @@
 # Testing xmastreeshape function for X-mas 2026
+#install.packages("christmas")
+library(christmas)
 xmastreeshape(
   year = 2026,
   language = "spanish",
