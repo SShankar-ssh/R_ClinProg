@@ -1,3 +1,3 @@
 # ClinProg_R
 
-Welcome to the repository with clinical programming activities in R.
+Summarized clinical programming activities in R.
