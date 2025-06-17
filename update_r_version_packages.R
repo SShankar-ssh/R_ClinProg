@@ -12,3 +12,6 @@ usethis::git_vaccinate()
 
 #library(usethis)
 #use_git_config(user.name = "Jane Doe", user.email = "jane@example.org")
+
+#updating an expired token
+https://forum.posit.co/t/how-to-i-use-a-new-github-pat/112700
