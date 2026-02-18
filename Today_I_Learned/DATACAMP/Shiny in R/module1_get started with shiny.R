@@ -4,7 +4,7 @@ pkgs <- c("shiny", "ggplot2", "readxl")
 install_and_load(pkgs)
 
 # Read the Excel file
-babynames <- read_excel("C:/Users/shankaso/OneDrive - Danone/Documents/Training/DATACAMP/Building Web Applications with Shiny/Data/babynames.xlsx")
+babynames <- read_excel("~/Data/babynames.xlsx")
 
 
 ui <- fluidPage(
@@ -26,5 +26,6 @@ server <- function(input, output, session) {
     
   })
 }
+
 
 shinyApp(ui = ui, server = server)
