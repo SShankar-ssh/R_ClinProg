@@ -5,4 +5,7 @@
 .Rdata
 .httr-oauth
 .DS_Store
-.quarto
+docs/
+Meta/
+doc/
+.tar.gz
